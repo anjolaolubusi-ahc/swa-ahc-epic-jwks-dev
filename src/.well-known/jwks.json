@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "alg": "RS384",
+      "use": "sig",
+      "kid": "epic-geisinger-nonprod-8c99919b",
+      "n": "uILWenamGIY2ayxENxAB...KFcn8w",
+      "e": "AQAB"
+    }
+  ]
+}
